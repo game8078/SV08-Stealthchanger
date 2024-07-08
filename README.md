@@ -10,13 +10,14 @@ Welcome, below you will find all the steps needed to convert the Sovol SV08 to w
 + Setup Canbus Network
 - Flash Toolboard MCU
 * Change Belts
-+ Add Stealthchanger Shuttle and Your Choice of Toolhead
-- Add Tap Features
-* Tune Printer With One Toolhead
-+ Add Docks
-- Add StealthChanger Sofware
-* Add Tools
-+ Tune Printer
++ Build Toolheads
+- Add Stealthchanger Shuttle and Your Choice of Toolhead
+* Add Tap Features
++ Tune Printer With One Toolhead
+- Add Docks
+* Add StealthChanger Sofware
++ Add Tools
+- Tune Printer
 
 # SV08-2020-Extrusion-Mount-Stealthchanger
 An addition to the Stealthchanger tool changer that allows for the SV08 to have a piece of 2020 extrusion mounted in the top of the printer for the docks used by Stealthchanger.
@@ -39,6 +40,8 @@ Insulation: https://www.amazon.com/gp/product/B08XQ3CK81/ref=ewc_pr_img_3?smid=A
 # Setup Canbus Network
 # Flash Toolboard MCU
 # Change Belts
+# Build Toolheads
+![TopView](https://github.com/game8078/SV08-2020-Extrusion-Mount-Stealthchanger-/blob/main/photos/Hummingbird%20Extruder.jpg)
 # Add Stealthchanger Shuttle and Your Choice of Toolhead
 # Add Tap Features
 # Tune Printer With One Toolhead
