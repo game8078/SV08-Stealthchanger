@@ -4,19 +4,19 @@ Welcome, below you will find all the steps needed to convert the Sovol SV08 to w
 # List-of-Major-Steps:
 - 2020 extrusion additon to frame
 * Raise bed
-+ Add extra powersupply
-- Flash mainline klipper to board MCU
++ Add Extra Powersupply
+- Flash Mainline Klipper To Board MCU
 * Setup Printer.cfg
-+ Setup canbus network
++ Setup Canbus Network
 - Flash Toolboard MCU
-* Change belts
-+ Add Stealthchanger Shuttle and your choice of toolhead
+* Change Belts
++ Add Stealthchanger Shuttle and Your Choice of Toolhead
 - Add Tap Features
-* Tune printer with one toolhead
-+ Add Docs
+* Tune Printer With One Toolhead
++ Add Docks
 - Add StealthChanger Sofware
-* And Tools
-+ Tune printer
+* Add Tools
++ Tune Printer
 
 # SV08-2020-Extrusion-Mount-Stealthchanger
 An addition to the Stealthchanger tool changer that allows for the SV08 to have a piece of 2020 extrusion mounted in the top of the printer for the docks used by Stealthchanger.
@@ -32,3 +32,17 @@ Spacers: https://www.amazon.com/dp/B0CQ87Y4VQ?_encoding=UTF8&psc=1&ref_=cm_sw_r_
 Bolts m4x35 SHCS: https://www.amazon.com/gp/product/B0CYGKLHTP/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8 
 
 Insulation: https://www.amazon.com/gp/product/B08XQ3CK81/ref=ewc_pr_img_3?smid=A17REXMFA4MBN8&psc=1 
+
+# Add Extra Powersupply
+# Flash Mainline Klipper To Board MCU
+# Setup Printer.cfg
+# Setup Canbus Network
+# Flash Toolboard MCU
+# Change Belts
+# Add Stealthchanger Shuttle and Your Choice of Toolhead
+# Add Tap Features
+# Tune Printer With One Toolhead
+# Add Docks
+# Add StealthChanger Sofware
+# Add Tools
+# Tune Printer
