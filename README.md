@@ -21,7 +21,7 @@ Welcome, below you will find all the steps needed to convert the Sovol SV08 to w
 # SV08-2020-Extrusion-Mount-Stealthchanger
 An addition to the Stealthchanger tool changer that allows for the SV08 to have a piece of 2020 extrusion mounted in the top of the printer for the docks used by Stealthchanger.
 
-![TopView](https://github.com/game8078/SV08-2020-Extrusion-Mount-Stealthchanger-/blob/main/TopdownView%231.PNG)
+![TopView](https://github.com/game8078/SV08-2020-Extrusion-Mount-Stealthchanger-/blob/main/photos/TopdownView%231.PNG)
 Source a piece of 2020 extrusion that is 420mm long (cut yourself or custom order) and print the brackets found on printables. https://www.printables.com/model/887692-sv08-2020-top-rail-adapter-bracket-toolchanger-or  
 
 # Raise Bed
@@ -43,6 +43,9 @@ Insulation: https://www.amazon.com/gp/product/B08XQ3CK81/ref=ewc_pr_img_3?smid=A
 # Add Tap Features
 # Tune Printer With One Toolhead
 # Add Docks
+![TopView](https://github.com/game8078/SV08-2020-Extrusion-Mount-Stealthchanger-/blob/main/photos/Modular%20Docks%20on%202020%20Extrusion.jpg)
+![TopView](https://github.com/game8078/SV08-2020-Extrusion-Mount-Stealthchanger-/blob/main/photos/Front%20Modular%20Docks%20with%20Tools.jpg)
+![TopView](https://github.com/game8078/SV08-2020-Extrusion-Mount-Stealthchanger-/blob/main/photos/Modular%20Docks%20With%20Tools.jpg)
 # Add StealthChanger Sofware
 # Add Tools
 # Tune Printer
