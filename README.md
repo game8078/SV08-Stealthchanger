@@ -27,3 +27,8 @@ Source a piece of 2020 extrusion that is 420mm long (cut yourself or custom orde
 # Raise Bed
 Due to switching out the toolhead the height of where the nozzle sits is higher that that of the stock SV08 nozzle. This means the nozzle can't touch the bed once installed onto the StealthChanger Shuttle. To fix this issue 9.5mm spacers are used to raise the bed from its original location. (This change also allows you to put insulation under your bed)
 
+Spacers: https://www.amazon.com/dp/B0CQ87Y4VQ?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_0SBBW6MAYBM8K1HCDFKS 
+
+Bolts m4x35 SHCS: https://www.amazon.com/gp/product/B0CYGKLHTP/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8 
+
+Insulation: https://www.amazon.com/gp/product/B08XQ3CK81/ref=ewc_pr_img_3?smid=A17REXMFA4MBN8&psc=1 
