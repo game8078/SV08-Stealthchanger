@@ -35,6 +35,10 @@ Bolts m4x35 SHCS: https://www.amazon.com/gp/product/B0CYGKLHTP/ref=ppx_yo_dt_b_a
 Insulation: https://www.amazon.com/gp/product/B08XQ3CK81/ref=ewc_pr_img_3?smid=A17REXMFA4MBN8&psc=1 
 
 # Add Extra Powersupply
+Adding an extra powersupply is a neccesity on the SV08 as it comes stock with harldly enough watts to begin with, let alone have multiple toolheads. WARNING!!!!! This part of the conversion is dangerous as you need to mess with mains power  WARNING!!!!! First is to determine how much power you will need, this is system to system dependant as your electronics. Please use the DraftShift Power Calculator: https://github.com/DraftShift/PowerCalc?tab=readme-ov-file 
+Once you determain your powersupply mount the powersupply to the bottom of your printer, here you can do one of two options, leave the 150w powersupply in place and run your board and motors off of that and your toolheads off of your new psu or remove the 150w and just use your new psu. If using both psu units all you need to do is using Wago connectors to splice into the existing wires and run the AC to your new psu. 
+![TopView](https://github.com/game8078/SV08-Stealthchanger/blob/main/photos/Added%20Powersupply.jpg)
+I used some din rail mounts I found of printables to attach to the SV08.
 # Flash Mainline Klipper To Board MCU
 # Setup Printer.cfg
 # Flash Toolboard MCU
