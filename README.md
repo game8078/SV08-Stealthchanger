@@ -7,8 +7,8 @@ Welcome, below you will find all the steps needed to convert the Sovol SV08 to w
 + Add Extra Powersupply
 - Flash Mainline Klipper To Board MCU
 * Setup Printer.cfg
-+ Setup Canbus Network
-- Flash Toolboard MCU
++ Flash Toolboard MCU
+- Setup Canbus Network
 * Change Belts
 + Build Toolheads
 - Add Stealthchanger Shuttle and Your Choice of Toolhead
@@ -37,8 +37,8 @@ Insulation: https://www.amazon.com/gp/product/B08XQ3CK81/ref=ewc_pr_img_3?smid=A
 # Add Extra Powersupply
 # Flash Mainline Klipper To Board MCU
 # Setup Printer.cfg
-# Setup Canbus Network
 # Flash Toolboard MCU
+# Setup Canbus Network
 # Change Belts
 # Build Toolheads
 ![TopView](https://github.com/game8078/SV08-2020-Extrusion-Mount-Stealthchanger-/blob/main/photos/Hummingbird%20Extruder.jpg)
