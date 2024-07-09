@@ -62,7 +62,6 @@ next on my todo list
 todo list
 # Add Docks
 ![TopView](https://github.com/game8078/SV08-2020-Extrusion-Mount-Stealthchanger-/blob/main/photos/Modular%20Docks%20on%202020%20Extrusion.jpg)
-![TopView](https://github.com/game8078/SV08-2020-Extrusion-Mount-Stealthchanger-/blob/main/photos/Front%20Modular%20Docks%20with%20Tools.jpg)
 ![TopView](https://github.com/game8078/SV08-2020-Extrusion-Mount-Stealthchanger-/blob/main/photos/Modular%20Docks%20With%20Tools.jpg)
 # Add StealthChanger Sofware
 todo list
