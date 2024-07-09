@@ -7,8 +7,8 @@ Welcome, below you will find all the steps needed to convert the Sovol SV08 to w
 + Add Extra Powersupply
 - Flash Mainline Klipper To Board MCU
 * Setup Printer.cfg
-+ Flash Toolboard MCU
-- Setup Canbus Network
++ Setup Canbus Network
+- Flash Toolboard MCU
 * Change Belts
 + Build Toolheads
 - Add Stealthchanger Shuttle and Your Choice of Toolhead
@@ -40,19 +40,33 @@ Once you determain your powersupply mount the powersupply to the bottom of your 
 ![TopView](https://github.com/game8078/SV08-Stealthchanger/blob/main/photos/Added%20Powersupply.jpg)
 I used some din rail mounts I found of printables to attach to the SV08.
 # Flash Mainline Klipper To Board MCU
+Please you this github project for this step. PSA it is still in beta. https://github.com/Rappetor/Sovol-SV08-Mainline 
 # Setup Printer.cfg
-# Flash Toolboard MCU
+Please you this github project for this step. PSA it is still in beta. https://github.com/Rappetor/Sovol-SV08-Mainline 
 # Setup Canbus Network
+I used the U2C plugged into the compute modual on the mainboard. 
+The best resource for setting up canbus is this guide. https://canbus.esoterical.online/ 
+Next is to remove the stock toolhead cable and route a canbus cable from your usb to canbus converter up to your canbus breakout board(BTT CEB in my case) and from your breakout board to your toolhead PCB. PSA: Remember to have both the 120R jumper on both your canbus adapter and your toolhead PCB.
+# Flash Toolboard MCU
+The best resource for this part is https://canbus.esoterical.online/ 
 # Change Belts
+The stock 6mm belts are not long enough for the stealthchanger shuttle so they need to be redone with longer belts. At the bottom of this document I have listed all the components that I used that includes the belts I used. (5 meters is the amount of belt needed)
+To change the belts remove the stock metal bracket that holds on the belts and attach the new belt to the old belt and pull the belt till the new belt replaces the old ones. 
 # Build Toolheads
 ![TopView](https://github.com/game8078/SV08-2020-Extrusion-Mount-Stealthchanger-/blob/main/photos/Hummingbird%20Extruder.jpg)
 # Add Stealthchanger Shuttle and Your Choice of Toolhead
+Please use the StealthChanger documentation for this step.
 # Add Tap Features
+next on my todo list
 # Tune Printer With One Toolhead
+todo list
 # Add Docks
 ![TopView](https://github.com/game8078/SV08-2020-Extrusion-Mount-Stealthchanger-/blob/main/photos/Modular%20Docks%20on%202020%20Extrusion.jpg)
 ![TopView](https://github.com/game8078/SV08-2020-Extrusion-Mount-Stealthchanger-/blob/main/photos/Front%20Modular%20Docks%20with%20Tools.jpg)
 ![TopView](https://github.com/game8078/SV08-2020-Extrusion-Mount-Stealthchanger-/blob/main/photos/Modular%20Docks%20With%20Tools.jpg)
 # Add StealthChanger Sofware
+todo list
 # Add Tools
+todo list
 # Tune Printer
+todo list
