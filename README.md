@@ -69,3 +69,6 @@ todo list
 todo list
 # Tune Printer
 todo list
+
+# My Part List
+https://docs.google.com/spreadsheets/d/1JrJ9xVd0SPiwflk1HpY03_PSYyF7ZYIquvCaTutLPTw/edit?usp=sharing 
